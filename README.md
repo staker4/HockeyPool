@@ -1,2 +1,2 @@
 # HockeyPool
-Web app for managing hockey pool
+Simple web app for managing hockey pool.
