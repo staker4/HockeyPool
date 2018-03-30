@@ -6,3 +6,5 @@ Simple web app for managing hockey pool.
 Here is a list of some usefull endpoints :
 
 - Player playoffs stats vs team playoffs : https://statsapi.web.nhl.com//api/v1/people/8473419/stats?stats=vsTeamPlayoffs&season=20102011
+
+- Standings (post season): https://statsapi.web.nhl.com/api/v1/standings/postseason
