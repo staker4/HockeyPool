@@ -13,7 +13,7 @@ List of required playoff stats
 
 Here is a list of some usefull endpoints :
 
+- [Drew Hynes NHL API](https://gitlab.com/dword4/nhlapi)
 - Player playoffs stats vs team playoffs : https://statsapi.web.nhl.com//api/v1/people/8473419/stats?stats=vsTeamPlayoffs&season=20102011
-
 - Standings (post season): https://statsapi.web.nhl.com/api/v1/standings/postseason
 
